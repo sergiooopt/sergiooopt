@@ -4,7 +4,7 @@ Soy estudiante de Desarollo de Aplicaciones Multiplataforma y aficionado a la in
 
 ### Lenguajes
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,dart,flutter,bash,python,mysql,mongodb,docker,podman"/>
+  <img src="https://skillicons.dev/icons?i=java,dart,flutter,bash,python"/>
 </a>
 
 
