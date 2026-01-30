@@ -1,6 +1,8 @@
 ## Hola a todos, soy Sergio 👋
 
-Soy estudiante de **Desarollo de Aplicaciones Multiplataforma** y aficionado a la informática, sobre todo sistemas operativos.
+### 👀 Sobre mí
+- Estudiante de Desarrollo de Aplicaciones Multiplataforma
+- Aficionado a la informática
 
 ### 💻 Lenguajes
 <a href="https://skillicons.dev">
@@ -15,6 +17,6 @@ Soy estudiante de **Desarollo de Aplicaciones Multiplataforma** y aficionado a l
 
 ### 🔨 Herramientas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,arch"/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,arch"/>
 </a>
 
