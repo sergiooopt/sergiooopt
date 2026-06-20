@@ -1,7 +1,7 @@
 ## Hola a todos, soy Sergio 👋
 
 ### 👀 Sobre mí
-- Estudiante de Desarrollo de Aplicaciones Multiplataforma
+- Técnico superior en Desarrollo de Aplicaciones Multiplataforma
 - Aficionado a la informática
 
 ### 💻 Lenguajes
