@@ -6,7 +6,7 @@
 
 ### 💻 Lenguajes
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,dart,flutter,bash,python"/>
+  <img src="https://skillicons.dev/icons?i=java,dart,flutter,python"/>
 </a>
 
 
