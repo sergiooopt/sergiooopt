@@ -1,26 +1,26 @@
-# ¡Hola! Soy Sergio 👋
+## ¡Hola! Soy Sergio 👋
 
 Desarrollador Junior | Técnico Superior en DAM
 
-## 🛠️ Tecnologías
+### 🛠️ Tecnologías
 
-### Lenguajes
+#### Lenguajes
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,dart,flutter,python"/>
 </a>
 
 
-### Bases de datos
+#### Bases de datos
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </a>
 
-### Herramientas
+#### Herramientas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,linux,arch,git,github"/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github"/>
 </a>
 
-## 📌 Actualmente
+### 📌 Actualmente
 
 - 🦀 Aprendiendo Rust.
 - 🐧 Usuario de Linux como sistema principal.
