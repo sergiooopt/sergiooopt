@@ -1,5 +1,7 @@
 # ¡Hola! Soy Sergio 👋
 
+Desarrollador Junior | Técnico Superior en DAM
+
 ## 🛠️ Tecnologías
 
 ### Lenguajes
