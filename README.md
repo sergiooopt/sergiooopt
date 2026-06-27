@@ -24,4 +24,3 @@ Desarrollador Junior | Técnico Superior en DAM
 
 - 🦀 Aprendiendo Rust.
 - 🐧 Usuario de Linux como sistema principal.
-- 📱 Desarrollando proyectos personales para seguir aprendiendo.
